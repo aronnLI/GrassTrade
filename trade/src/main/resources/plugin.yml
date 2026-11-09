@@ -1,0 +1,9 @@
+name: GrassTrade
+version: 1.0
+main: ru.grasssmp.trade.GrassTrade
+api-version: '1.21'
+description: Безопасный обмен предметами для Grass SMP
+commands:
+  trade:
+    description: Открыть меню обмена с игроком
+    usage: /trade <ник>
